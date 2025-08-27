@@ -33,3 +33,5 @@
     - Clean architecuture along with SOLID principles.
 
 
+### Current Weather
+![Weather Details](Doc/Screenshots/CurrentWeather.png)
