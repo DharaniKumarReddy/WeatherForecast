@@ -1,3 +1,5 @@
+# WeatherForecast
+
 1. Project Overview
       - The Weather Forecast App built with SwiftUI & Clean Architecture. Displays current weather and multi-day forecasts for the searched cities.
 
