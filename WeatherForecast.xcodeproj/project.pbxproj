@@ -53,6 +53,11 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		9F52260C2E5F47F60075135D /* Doc */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Doc;
+			sourceTree = "<group>";
+		};
 		9F6DBDD92E5B55120045BAC9 /* WeatherForecast */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -133,6 +138,7 @@
 				9F6DBE062E5B561A0045BAC9 /* Data */,
 				9F7A3F2A2E5C4B9C009D4697 /* Resources */,
 				9F7A3F472E5D9048009D4697 /* Utility */,
+				9F52260C2E5F47F60075135D /* Doc */,
 				9F6DBDE72E5B55130045BAC9 /* WeatherForecastTests */,
 				9F6DBDF12E5B55130045BAC9 /* WeatherForecastUITests */,
 				9F6DBDD82E5B55120045BAC9 /* Products */,
@@ -185,6 +191,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				9F52260C2E5F47F60075135D /* Doc */,
 				9F6DBDD92E5B55120045BAC9 /* WeatherForecast */,
 				9F6DBE022E5B55DB0045BAC9 /* Presentation */,
 				9F6DBE062E5B561A0045BAC9 /* Data */,
